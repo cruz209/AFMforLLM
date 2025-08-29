@@ -112,7 +112,6 @@ items_stubbed: 0
 ## 📜 License
 
 Released under the **Apache 2.0 License** — free for commercial and research use.
-Patent rights are preserved (see [LICENSE](LICENSE)).
 
 ---
 
